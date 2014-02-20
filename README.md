@@ -1,7 +1,8 @@
-
-WHAT WE ARE BUILDING -
+<b>WHAT WE ARE BUILDING -</b>
 
 In the first week we'll build a very simple Ruby script that will let us maintain a list of current students at Makers Academy. It will have the following features:
+
+<hr />
 
 1 - Show the list of all students
 
@@ -11,10 +12,11 @@ In the first week we'll build a very simple Ruby script that will let us maintai
 
 4 - Add new students by asking the user to input the names
 
+<hr />
 
+<b>In week 2 we'll expand on it to do the following:</b>
 
-In week 2 we'll expand on it to do the following:
-
+<hr />
 
 5 - Show information about a given student
 
@@ -28,6 +30,6 @@ In week 2 we'll expand on it to do the following:
 
 10 - Loading it from the file
 
-
+<hr />
 
 The script will be invoked from the command-line and it will only use pure Ruby, that is, there will be no external libraries to use. It will have text-based interface that will not look particularly exciting but it's really important to understand how to build basic things before trying to create sophisticated websites.
