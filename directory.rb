@@ -28,16 +28,22 @@ students = [
 	"Andrew Cumine"
 ]
 
-# Then print the array
-
-puts "The students in my cohort at Makers Academy"
-puts "-------------------------------------------"
-students.each do |student|
-	puts student
+def print_header
+	puts "The students in my cohort at Makers Academy"
+	puts "-------------------------------------------"
 end
 
-# Then last we print the total
+def print (names)
+	names.each do |name|
+		puts name
+	end
+end
 
+def print_footer(names)
+	puts "---------------------------------"
+	puts "Overall, we have #{names.length} in our cohort."
+end
 
-puts "---------------------------------"
-puts "Overall, we have #{students.length} in our cohort."
+print_header
+print(students)
+print_footer(students)
