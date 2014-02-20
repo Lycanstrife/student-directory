@@ -52,3 +52,5 @@ end
 print_header
 show(students)
 print_footer(students)
+
+# No Puts!
