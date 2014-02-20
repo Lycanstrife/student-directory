@@ -1,4 +1,4 @@
-WHAT WE ARE BUILDING -
+<b>WHAT WE ARE BUILDING -</b>
 
 In the first week we'll build a very simple Ruby script that will let us maintain a list of current students at Makers Academy. It will have the following features:
 
@@ -14,7 +14,7 @@ In the first week we'll build a very simple Ruby script that will let us maintai
 
 <hr />
 
-In week 2 we'll expand on it to do the following:
+<b>In week 2 we'll expand on it to do the following:</b>
 
 <hr />
 
