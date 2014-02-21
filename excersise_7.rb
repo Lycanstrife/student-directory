@@ -35,7 +35,7 @@ and pasting previous lines for convenience!
 
 def print_header
 	puts "The students in my cohort at Makers Academy".center(100)
-	puts "-------------------------------------------".center(100)
+	puts "--------------------------------------------------".center(100)
 end
 
 def print(students)
@@ -47,7 +47,7 @@ def print(students)
 end
 
 def print_footer(names)
-	puts "---------------------------------".center(100)
+	puts "--------------------------------------------------".center(100)
 	puts "Overall, we have #{names.length} in our cohort.".center(100)
 end
 
