@@ -22,7 +22,7 @@ end
 def interactive_menu
 	loop do
 		print_menu
-		process = gets.chomp
+		process gets.chomp
 	end
 end
 
